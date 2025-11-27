@@ -6,6 +6,7 @@ public class Cat {
     private String name;
     private int age;
     private String color;
+    private String birth;
 
     public Cat(String name, int age) {}
 }
